@@ -30,7 +30,7 @@
 
 ### 🎬 Demo
 ---
-//[![시연영상](https://img.youtube.com/vi/-fej4lnilvI/0.jpg)](https://youtu.be/-fej4lnilvI)
+[![시연영상](https://img.youtube.com/vi/-fej4lnilvI/0.jpg)](https://youtu.be/-fej4lnilvI)
 
 ### 🔨 Tools
 --- 
